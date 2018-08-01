@@ -1,21 +1,25 @@
 {
   "name": "lvshou-vcomponents",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "wwb",
     "email": "568109135@qq.com",
-    "url": "https://github.com/wwb568109135"
+    "url": "https://github.com/wwb568109135/lvshou-vcomponents"
   },
   "description": "lvshou‘s vue components",
   "keywords": [
     "vue",
     "components"
   ],
-  "homepage": "https://github.com/wwb568109135",
+  "homepage": "https://github.com/wwb568109135/lvshou-vcomponents",
   "bugs": {
-    "url": "https://github.com/wwb568109135"
+    "url": "https://github.com/wwb568109135/lvshou-vcomponents/issues"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wwb568109135/lvshou-vcomponents.git"
+  },
   "private": false,
   "main": "dist/lvshou-vcomponents.min.js",
   "scripts": {
