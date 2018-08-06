@@ -29,7 +29,7 @@
     "start": "npm run dev"
   },
   "dependencies": {
-    "lvshou-vcomponents": "^npm push0.0.1",
+    "lvshou-vcomponents": "^0.0.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
