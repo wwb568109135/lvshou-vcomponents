@@ -1,4 +1,5 @@
-
+# 计划
+> *  未来计划用rollupjs来构造操作插件（计划中） https://www.rollupjs.com/guide/zh
 # lvshou-vcomponents
 hxsapp.com 前端开发尝试和积累的 vue-components,目前组件的开发有三种覆盖：
 > * （1）vue格式文件来组件声明方式，业务来调用引入组件声明
